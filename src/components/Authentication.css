@@ -1,0 +1,18 @@
+.imageIcon{
+    margin-right:10px;
+    padding: 5px;
+    font-size:25px;
+    /* border-radius: 50%; */
+    /* box-shadow:0 2px 8px rgba(0,0,0,0.8); */
+    /* background-color: white; */
+}
+.imageIcon:hover{
+    color:lightskyblue;
+}
+.post_avatar{
+    box-shadow:0 2px 8px rgba(0,0,0,0.8);
+    background-color: white;
+}
+.container{
+    display: flex;
+}
